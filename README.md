@@ -60,7 +60,7 @@
 - [📝 User Registration]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/e1329848087a1bbfb854c0843094d4ceffcc5804/Screenshot%202025-06-17%20101026.png)
 - [🧾 User Dashboard]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/d87954cb2b79c8b278ede10c70107d556055877b/Screenshot%202025-06-17%20101437.png)
 
-![image alt]((screenshots/user-dashboard.png)
+
 
 ---
 
@@ -68,7 +68,7 @@
 - [🔐 Driver Login]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/15ac4569dd30ec590c1dc2b02f6bc99bc8090b3c/Screenshot%202025-06-17%20103353.png)
 - [📋 Driver Dashboard]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/d87954cb2b79c8b278ede10c70107d556055877b/Screenshot%202025-06-17%20101609.png)
 
-![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/d87954cb2b79c8b278ede10c70107d556055877b/Screenshot%202025-06-17%20101621.png)
+- ![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/d87954cb2b79c8b278ede10c70107d556055877b/Screenshot%202025-06-17%20101621.png)
 
 ---
 
