@@ -47,6 +47,24 @@
 - Contact Page
 
 ---
+...
 
-## 📁 Project Structure
+## 📸 Screenshots
+
+### 🏠 Home Page
+![Home Page](screenshots/homepage.png)
+
+### 👤 User Dashboard
+![User Dashboard](screenshots/user-dashboard.png)
+
+### 🚕 Ride Booking Page
+![Ride Booking](screenshots/book-ride.png)
+
+### 💳 Payment Interface
+![Payment](screenshots/payment.png)
+
+### 📬 Contact Us
+![Contact Us](screenshots/contact-us.png)
+
+...
 
