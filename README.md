@@ -53,18 +53,49 @@
 
 ### 🏠 Home Page
 ![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/4d480363e620f7293adc2f7e003a3e7d7c097858/Screenshot%202025-06-17%20101004.png)
+![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/e1329848087a1bbfb854c0843094d4ceffcc5804/Screenshot%202025-06-17%20101013.png)
 
-### 👤 User Dashboard
-![User Dashboard](screenshots/user-dashboard.png)
+### 👤 User Module
+- [🔐 User Login]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/e1329848087a1bbfb854c0843094d4ceffcc5804/Screenshot%202025-06-17%20101038.png)
+- [📝 User Registration]![image alt](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/e1329848087a1bbfb854c0843094d4ceffcc5804/Screenshot%202025-06-17%20101026.png)
+- [🧾 User Dashboard]![image alt]((#)
 
-### 🚕 Ride Booking Page
-![Ride Booking](screenshots/book-ride.png)
+![image alt]((screenshots/user-dashboard.png)
 
-### 💳 Payment Interface
-![Payment](screenshots/payment.png)
+---
+
+### 🚕 Driver Module
+- [🔐 Driver Login]![image alt]((#)
+- [📋 Driver Dashboard]![image alt]((#)
+
+![image alt]((screenshots/driver-dashboard.png)
+
+---
+
+### 🧑‍💼 Admin Panel
+- [🔐 Admin Login](#)
+
+![image alt]((screenshots/admin-login.png)
+
+---
+
+### 📅 Ride Booking
+![image alt]((screenshots/book-ride.png)
+
+---
+
+### 💳 Payment Page
+![image alt]((screenshots/payment.png)
+
+---
 
 ### 📬 Contact Us
-![Contact Us](screenshots/contact-us.png)
+![image alt]((screenshots/contact-us.png)
 
-...
+### ℹ️ Static Pages
 
+#### 📖 About Us
+![About Us](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/e1329848087a1bbfb854c0843094d4ceffcc5804/Screenshot%202025-06-17%20101110.png)
+
+#### 🛠 Services
+![Services](screenshots/services.png)
