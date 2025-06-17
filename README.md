@@ -52,7 +52,7 @@
 ## 📸 Screenshots
 
 ### 🏠 Home Page
-![Home Page](screenshots/homepage.png)
+![Home Page](screenshots/[homepage.png](https://github.com/Akilajayathunga/Online-Transportation-Management-System/blob/4d480363e620f7293adc2f7e003a3e7d7c097858/Screenshot%202025-06-17%20101004.png))
 
 ### 👤 User Dashboard
 ![User Dashboard](screenshots/user-dashboard.png)
